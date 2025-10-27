@@ -107,4 +107,4 @@ Clinical data cleaning • Non-parametric hypothesis testing • ggplot2 visuali
 ² University of Arizona College of Medicine–Phoenix\
 ³ Phoenix Children’s Statistician Group
 
-Presented as oral and poster sessions at the [**International Pediatric Feeding Disorder Conference (IPFDC 2025)**](https://www.feedingmatters.org/international-pfd-conference/) and [**Digestive Disease Week (DDW 2025)**](https://ddw.org/); submitted to *JPGN Reports (2025)*.
+Presented as oral and poster sessions at the [**International Pediatric Feeding Disorder Conference (IPFDC 2025)**](https://www.feedingmatters.org/international-pfd-conference/) and [**Digestive Disease Week (DDW 2025)**](https://ddw.org/); submitted to AGA's Journal *Gasteroenterology (2025)*.
