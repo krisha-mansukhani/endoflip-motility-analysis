@@ -35,7 +35,7 @@ The study measured **Upper (UES)** and **Lower Esophageal Sphincter (LES)** para
 ## Methods
 
 | Step | Description |
-|----|----|
+|-----------------------|-------------------------------------------------|
 | **Data Collection** | EHR data extraction of demographics, feeding diagnosis, EndoFLIP metrics, and dysphagia status. |
 | **Statistical Analysis** | Wilcoxon rank-sum and Fisher’s exact tests for group comparisons. |
 | **Software** | SAS 9.4; R 4.1.2 (tidyverse, ggplot2). |
@@ -46,7 +46,7 @@ The study measured **Upper (UES)** and **Lower Esophageal Sphincter (LES)** para
 ## Key Results
 
 | Finding                    | Summary                                        |
-|----------------------------|------------------------------------------------|
+|------------------------------------|------------------------------------|
 | Sample size                | n = 150 (120 dysphagia, 30 non-dysphagia)      |
 | Inadequate contractions    | 23.5% of patients                              |
 | LES restriction            | 7.4% of patients                               |
@@ -77,9 +77,9 @@ The study measured **Upper (UES)** and **Lower Esophageal Sphincter (LES)** para
 ## What Was Known vs. New
 
 | What Was Known | What Is New |
-|----|----|
+|----------------------------------------|--------------------------------|
 | EndoFLIP is FDA-approved for children ≥5 years, used for diagnosing esophageal disorders. | EndoFLIP is **safe and feasible in children \<5 years** with PFD. |
-| Adult normal values for LES-DI are defined; pediatric values are unknown. | This study provides the **first pediatric normative data** for UES and LES-DI and describes the EndoFLIP protocol for children. :contentReference[oaicite:5]{index="5"} |
+| Adult normal values for LES-DI are defined; pediatric values are unknown. | This study provides the **first pediatric normative data** for UES and LES-DI and describes the EndoFLIP protocol for children. |
 
 ------------------------------------------------------------------------
 
@@ -107,4 +107,4 @@ Clinical data cleaning • Non-parametric hypothesis testing • ggplot2 visuali
 ² University of Arizona College of Medicine–Phoenix\
 ³ Phoenix Children’s Statistician Group
 
-Presented as oral and poster sessions at the [**International Pediatric Feeding Disorder Conference (IPFDC 2025)**](https://www.feedingmatters.org/international-pfd-conference/) and [**Digestive Disease Week (DDW 2025)**](https://ddw.org/); submitted to AGA's Journal *Gasteroenterology (2025)*.
+Presented as oral and poster sessions at the [**International Pediatric Feeding Disorder Conference (IPFDC 2025)**](https://www.feedingmatters.org/international-pfd-conference/) and [**Digestive Disease Week (DDW 2025)**](https://ddw.org/); submitted to [**AGA's Journal *Gasteroenterology (2025)*.**](https://www.sciencedirect.com/science/article/abs/pii/S0016508525040521)
